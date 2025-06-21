@@ -1,8 +1,6 @@
-# unotrone-os
-os for arduino uno nano etc 
+
 🖥️ Unotrone OS
 
-# 🚀 Unotrone OS – The Arduino Operating System That Could
 # 🚀 Unotrone OS — The Arduino Microcontroller Operating System
 
 ![Unotrone OS](https://your-image-link.com/banner.png)

@@ -1,5 +1,19 @@
 # 🚀 Unotrone OS — The Arduino Microcontroller Operating System
 
+
+## 📄 License
+
+This project is open for use, modification, and distribution **without any strict restrictions**, but please **give proper credit to the original author**:
+
+`kishwordulal1234`
+
+---
+
+<p align="center">
+Made with ❤️ by <a href="https://github.com/kishwordulal1234">kishwordulal1234</a>
+</p>
+
+
 ![Unotrone OS](https://your-image-link.com/banner.png)
 
 <p align="center">

@@ -14,7 +14,7 @@ Made with ❤️ by <a href="https://github.com/kishwordulal1234">kishwordulal12
 </p>
 
 
-![Unotrone OS](uno.jpg)
+![Unotrone OS](1.jpg)
 
 <p align="center">
   <a href="https://github.com/kishwordulal1234/unotrone-os/stargazers">

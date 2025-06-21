@@ -1,6 +1,3 @@
-
-🖥️ Unotrone OS
-
 # 🚀 Unotrone OS — The Arduino Microcontroller Operating System
 
 ![Unotrone OS](https://your-image-link.com/banner.png)
